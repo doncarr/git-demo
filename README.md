@@ -2,8 +2,6 @@
 
 This is the first file in theis repo.
 
-## Ipsum Below
+## Website contents 
 
-This is the first day of the rest of my life
-
-More ipsum below
+1. Index.html
